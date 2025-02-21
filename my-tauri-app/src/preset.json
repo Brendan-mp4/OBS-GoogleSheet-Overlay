@@ -1,0 +1,18 @@
+{
+    "obsSettings": {
+      "ipAddress": "192.168.1.26:4455",
+      "password": "obswsserver"
+    },
+    "sheetSettings": {
+      "sheetID": "1BdXOJtOoJwB3EnZjQQo_YwLSF3q-Q0QGVUHUhHivZsg",
+      "tabname": "Data",
+      "range": "A7:M38",
+      "apiKey": "AIzaSyCvPIl4sZLpejZm_HUxG0hruXi1Z5kSQT0"
+    },
+    "controllerSettings": {
+      "inputs": [
+        { "name": "Team1Name", "type": "text", "provider": "Google Sheet", "data": "A8" },
+        { "name": "Team2Name", "type": "text", "provider": "Google Sheet", "data": "B8" }
+      ]
+    }
+  }

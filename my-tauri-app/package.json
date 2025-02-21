@@ -1,0 +1,23 @@
+{
+  "name": "obs-googlesheet-overlay",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "tauri": "tauri"
+    "dev": "tauri dev",
+    "build": "tauri build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brendan-mp4/OBS-GoogleSheet-Overlay.git"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brendan-mp4/OBS-GoogleSheet-Overlay/issues"
+  },
+  "homepage": "https://github.com/Brendan-mp4/OBS-GoogleSheet-Overlay#readme",
+  "description": ""
+}
